@@ -10,5 +10,5 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 
 ## Stacks:
 
-* Python
-- GUIzero
+- Python
+ - GUIzero
