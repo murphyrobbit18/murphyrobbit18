@@ -10,5 +10,13 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 
 ## Stacks:
 
+- CSS
+- HTML
+- JavaScript
+- MarkDown
+- LaTeX
 - Python
    - GUIzero
+   - Pygame
+   - OpenCV
+   - Matplotlib
