@@ -7,3 +7,8 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 
 - ExxonMobil Intern
 - techNL Tech Immersion Program
+
+## Stacks:
+
+- Python
+ -GUIzero
