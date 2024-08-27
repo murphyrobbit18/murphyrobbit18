@@ -9,23 +9,12 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 
 ## Stacks:
 
-- CSS
-- HTML
-- JavaScript
-- MarkDown
-- LaTeX
-- Python
-   - <h6>GUIzero</h6>
-   - Pygame
-   - OpenCV
-   - Matplotlib
-
-<li>Web Technologies
+<li>Programming Languages:
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Bootstrap</li>
-    <li>React Js</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Bootstrap</li>
+      <li>React Js</li>
   </ul>
 </li>
