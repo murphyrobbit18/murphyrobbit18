@@ -12,11 +12,12 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 <ul>
   <li>Programming Languages:
     <ul>
-         <li>HTML</li>
          <li>CSS</li>
+         <li>HTML</li>
          <li>JavaScript</li>
-         <li>Bootstrap</li>
-         <li>React Js</li>
+         <li>LaTeX</li>
+         <li>MarkDown</li>
+         <li>Python</li>
     </ul>
   </li>
 
