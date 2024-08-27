@@ -10,8 +10,8 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 ## Stacks:
 
 <ul>
-  <li>Programming Languages:<br>
-    <ul>
+  <li>Programming Languages:
+    <ul><br>
          <li>CSS</li>
          <li>HTML</li>
          <li>JavaScript</li>
