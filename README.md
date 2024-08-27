@@ -9,9 +9,9 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 
 ## Programming Languages:
 
-<li>CSS</li>
-<li>HTML</li>
-<li>JavaScript</li>
-<li>LaTeX</li>
-<li>MarkDown</li>
-<li>Python</li>
+- CSS
+- HTML
+- JavaScript
+- LaTeX
+- MarkDown
+- Python
