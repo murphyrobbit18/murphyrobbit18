@@ -7,18 +7,11 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 - ExxonMobil Intern
 - techNL Tech Immersion Program
 
-## Stacks:
+## Programming Languages:
 
-<ul>
-  <li>Programming Languages:
-    <ul>
-       <li>CSS</li>
-         <li>HTML</li>
-         <li>JavaScript</li>
-         <li>LaTeX</li>
-         <li>MarkDown</li>
-         <li>Python</li>
-    </ul>
-  </li>
-
-</ul>
+<li>CSS</li>
+<li>HTML</li>
+<li>JavaScript</li>
+<li>LaTeX</li>
+<li>MarkDown</li>
+<li>Python</li>
