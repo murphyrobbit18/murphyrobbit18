@@ -11,8 +11,8 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 
 <ul>
   <li>Programming Languages:
-    <ul><br>
-         <li>CSS</li>
+    <ul>
+       <li>CSS</li>
          <li>HTML</li>
          <li>JavaScript</li>
          <li>LaTeX</li>
