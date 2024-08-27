@@ -19,3 +19,13 @@ I am a full time engineering student at the Memorial University of Newfoundland 
    - Pygame
    - OpenCV
    - Matplotlib
+
+       <li>Web Technologies
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Bootstrap</li>
+        <li>React Js</li>
+      </ul>
+</li>
