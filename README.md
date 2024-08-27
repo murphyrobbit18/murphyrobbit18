@@ -15,7 +15,7 @@ I am a full time engineering student at the Memorial University of Newfoundland 
 - MarkDown
 - LaTeX
 - Python
-   - GUIzero
+   - <h6>GUIzero</h6>
    - Pygame
    - OpenCV
    - Matplotlib
