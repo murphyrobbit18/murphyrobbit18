@@ -1,13 +1,13 @@
-# Hi, I'm Robin Murphy!👋
+# Hi, I'm Robin Murphy!
 
 ![image](https://github.com/user-attachments/assets/8f429cdb-f404-40de-9766-4525650320f6)
 
 
-I am a full time engineering student at the Memorial University of Newfoundland and aspire to be a full-stack software developer.
+I am a full time Computer Science student at the Memorial University of Newfoundland and aspire to be a full-stack software developer.
 
 ## Education:
 
-- Beginning my Bachelor of Engineering and Applied Science at the Memorial of University of Newfoundland
+- Beginning my Bachelor of Science at the Memorial of University of Newfoundland
 - Graduate of O'Donel High School in late June of 2024
 
  ## Working Experience:
