@@ -7,7 +7,7 @@ I am a full time Computer Science student at the Memorial University of Newfound
 
 ## Education:
 
-- Beginning my Bachelor of Science at the Memorial of University of Newfoundland
+- Beginning my Bachelor of Science in Computer Science at the Memorial of University of Newfoundland
 - Graduate of O'Donel High School in late June of 2024
 
  ## Working Experience:
