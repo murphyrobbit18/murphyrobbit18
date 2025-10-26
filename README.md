@@ -24,3 +24,4 @@ I am a full time Computer Science student at the Memorial University of Newfound
 - LaTeX
 - MarkDown
 - Python
+- R
