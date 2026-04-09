@@ -7,19 +7,21 @@ I am a full time Computer Science student at the Memorial University of Newfound
 
 ## Education:
 
-- Beginning my Bachelor of Science in Computer Science at the Memorial of University of Newfoundland
-- Graduate of O'Donel High School in late June of 2024
+- Third Year BSc. in CS at MUN
 
  ## Working Experience:
 
 - ExxonMobil Intern
 - techNL Tech Immersion Program
+- Experience Ventures AI & Tech for Business Hackathon 
+
 
 ## Programming Languages:
 
 - C++
 - CSS
 - HTML
+- Java
 - JavaScript
 - LaTeX
 - MarkDown
